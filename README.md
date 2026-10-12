@@ -21,7 +21,7 @@ Repositório dedicado ao acompanhamento de estudos, anotações e códigos desen
 
 1. Clone o repositório:
    \`\`\`bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/SEU_USUARIO/https://github.com/ezequielfb/python-data-science
    \`\`\`
 2. Crie e ative um ambiente virtual:
    \`\`\`bash
