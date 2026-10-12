@@ -9,7 +9,7 @@ Repositório dedicado ao acompanhamento de estudos, anotações e códigos desen
 - **03 - Visualização de Dados**: Gráficos e dashboards com Matplotlib e Seaborn.
 - **04 - Projetos Práticos**: Análises exploratórias de dados (EDA) e modelos.
 
-## Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 - Python
 - Jupyter Notebook
@@ -17,19 +17,8 @@ Repositório dedicado ao acompanhamento de estudos, anotações e códigos desen
 - Matplotlib / Seaborn
 - Git & GitHub
 
-## Como executar localmente
+## 🚀 Como executar localmente
 
 1. Clone o repositório:
-   \`\`\`bash
-   git clone https://github.com/SEU_USUARIO/https://github.com/ezequielfb/python-data-science
-   \`\`\`
-2. Crie e ative um ambiente virtual:
-   \`\`\`bash
-   python -m venv .venv
-   # Windows (PowerShell):
-   .venv\Scripts\Activate.ps1
-   \`\`\`
-3. Instale as dependências:
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
+   ```bash
+   git clone [https://github.com/ezequielfb/python-data-science.git](https://github.com/ezequielfb/python-data-science.git)
