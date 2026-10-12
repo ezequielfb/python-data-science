@@ -1,0 +1,15 @@
+# Python & Ambientes virtuais
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de dados pesados
+*.csv
+*.xlsx
+*.parquet
+*.zip
