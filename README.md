@@ -2,14 +2,14 @@
 
 Repositório dedicado ao acompanhamento de estudos, anotações e códigos desenvolvidos durante cursos e tutoriais práticos de Ciência de Dados com Python.
 
-## 📌 Conteúdo
+## Conteúdo
 
 - **01 - Fundamentos de Python**: Sintaxe básica, estruturas de controle e coleções.
 - **02 - Manipulação e Análise de Dados**: Uso de NumPy e Pandas para manipulação tabular.
 - **03 - Visualização de Dados**: Gráficos e dashboards com Matplotlib e Seaborn.
 - **04 - Projetos Práticos**: Análises exploratórias de dados (EDA) e modelos.
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - Python
 - Jupyter Notebook
@@ -17,7 +17,7 @@ Repositório dedicado ao acompanhamento de estudos, anotações e códigos desen
 - Matplotlib / Seaborn
 - Git & GitHub
 
-## 🚀 Como executar localmente
+## Como executar localmente
 
 1. Clone o repositório:
    ```bash
